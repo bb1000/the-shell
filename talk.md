@@ -295,7 +295,7 @@ name: file-tree
 
 ### A tree view of a file system
 
-<img src="https://docs.oracle.com/cd/B19306_01/backup.102/b14236/img/obref001.gif"> 
+<img src="img/obref001.gif"> 
 
 
 ???
@@ -325,7 +325,7 @@ file1  file1.bak  file1.tmp  tmp
 $ ls /home/pablo
 file1 file1.bak file2
 ~~~
-<img src="https://docs.oracle.com/cd/B19306_01/backup.102/b14236/img/obref001.gif" height=300> 
+<img src="img/obref001.gif" height=300> 
 
 ---
 name: example
@@ -339,7 +339,7 @@ $ ls ../pablo
 file1 file1.bak file2
 ~~~
 
-<img src="https://docs.oracle.com/cd/B19306_01/backup.102/b14236/img/obref001.gif" height=250> 
+<img src="img/obref001.gif" height=250> 
 
 Directory shortcuts
 - ~ (home) 
@@ -361,7 +361,7 @@ $ ls
 file1 file1.bak file2
 ~~~
 
-<img src="https://docs.oracle.com/cd/B19306_01/backup.102/b14236/img/obref001.gif" height=250> 
+<img src="img/obref001.gif" height=250> 
 ---
 <section>
 <h2>How do I view/change/save text in files?</h2>
