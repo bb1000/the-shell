@@ -16,7 +16,7 @@ name: cover
 <script type="text/javascript"
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
-# The Bash shell
+# The shell
 
 
 ---
@@ -25,7 +25,7 @@ layout: false
 
 
 
-* [The Bash shell](#cover)
+* [The shell](#cover)
     + [Learning objectives](#goals)
     + [What is a terminal](#terminal)
     + [Shell](#shell)
