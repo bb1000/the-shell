@@ -18,10 +18,6 @@ name: cover
 </script>
 # The Bash shell
 
-## 
-
-BB2441 The shell
-
 
 ---
 
